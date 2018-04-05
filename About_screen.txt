@@ -1,0 +1,19 @@
+#########################################################################
+#/ Wydarzenia przedstawione w grze, są oparte na faktach autentycznych.\#
+#/                                                                     \#
+#/                           Twórcą gry jest:                          \#
+#/                              Łukasz Inglot                          \#
+#/                                                                     \#
+#/                        Scenariusz i reżyseria:                      \#
+#/                            Łukasz Inglot                            \#
+#/                                                                     \#
+#/                         Kierownik produkcji:                        \#
+#/                             Łukasz Inglot                           \#
+#/                                                                     \#
+#/                          System operacyjny:                         \#
+#/                                Ubuntu                               \#
+#/                                                                     \#
+#########################################################################
+
+
+

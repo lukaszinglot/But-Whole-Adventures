@@ -1,0 +1,37 @@
+#########################################################################
+#\		         || EKRAN WYBORU POSTACI! ||		       /#
+#\                        -------------------------                    /#
+#\                         | Będziesz grać jako: |                     /#
+#\                         -----------------------                     /#
+#\                            ----------------                         /#
+#\                            | 1)La Soldato |                         /#
+#\                            ----------------                         /#
+#\ Zawsze interesowało Cię wojsko. Co prawda nie chciałes uczestniczyć /#
+#\             w wojnie, ale karabiny to Twoj żywioł.                  /#
+#\ Już za dzieciaka biłeś osiedlowe rekordy w strzelaniu do gołębii.   /#
+#\                              -----------                            /#
+#\                              | 2)Maggi |                            /#
+#\                              -----------                            /#
+#\      Odkąd nauczyłeś się czytać, kręciło Cię tworzenie mikstur.     /#
+#\           W liceum parałeś się śmiercionośnymi czarami,             /#
+#\             a w wolnym czasie zajmujesz się nekromancją.            /#
+#\                           ---------------                           /#
+#\                           | 3)Cleptoman |                           /#
+#\                           ---------------                           /#
+#\     Zaglądanie ludziom do portfela to twoje drugie śniadanie.       /#
+#\             Zazwyczaj organizujesz duże skoki na banki,             /#
+#\         ewentualnie kraniesz zabawki dzieciom z piaskownicy.        /#
+#\                           ---------------                           /#
+#\                           | 4)Barbassus |                           /#
+#\                           ---------------                           /#
+#\   Z dzieciństwa utkwiły Ci w głowie tylko ostatnie słowa dziadka.   /#
+#\                "Pamiętaj abyś trzymał mocno drabinę"                /#
+#\   Gdy widzisz coś ostrego i ciężkiego to wyłącza Ci się myślenie    /#
+#\                Najchetniej byś wyjechał do Skandynawii.             /#
+#\                                                                     /#
+#\      -------------------------------------------------------        /#
+#\      | Wybierz postać, poprzez naciśnięcie cyfry od 1 do 4 |        /#
+#\      -------------------------------------------------------        /#
+#\                                                                     /#
+#\                                                                     /#
+#########################################################################

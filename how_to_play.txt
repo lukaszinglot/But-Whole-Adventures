@@ -1,0 +1,27 @@
+######################################################################
+#/        | Witaj w But Whole Adventures podrózniku ! |             \#
+#/        ---------------------------------------------             \#
+#/ Aby umożliwić Ci pełną immersję z grą zrobiliśmy krótki poradnik.\#
+#/                                                                  \#
+#/        Funkcje ruchu dostępne są pod klawiszami w,s,a,d.         \#
+#/                    W - wykonuje ruch do góry                     \#
+#/                    S - wykonuje ruch do dołu                     \#
+#/                    A - wykonuje ruch w lewo                      \#
+#/                    D - wykonuje ruch w prawo                     \#
+#/                                                                  \#
+#/     Gra przeprowadzi Cię przez które wprowadzenie w fabułę,      \#
+#/       oraz ekran wyboru postaci, gdzie podejmiesz decyzję,       \#
+#/              jakim bohaterem wyruszysz w przygodę.               \#
+#/               Zaczynamy mając 100 punktów zdrowia.               \#
+#/  Gdy zobaczysz, że z ilością tychże punktów nie jest za dobrze,  \#
+#/          w grze zaimplementowaliśmy specjalne serduszka,         \#
+#/               przywracające określoną ilośc życia.               \#
+#/                                                                  \#
+#/    Jak sam zauważysz, zbieranie kup zabiera 7 punktów zycia,     \#
+#/                ale im więcej kup(poo) w ekwipunku,               \#
+#/                 tym większy wynik w highscore                    \#
+#/        W grze znajdziesz także złoto i magiczne gwiazdki         \#
+#/               które także wpływają na końcowy wynik              \#
+#/                                                                  \#
+#/                            Powodzenia!                           \#
+######################################################################
