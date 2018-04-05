@@ -1,0 +1,17 @@
+#########################################################################
+#\                     | Rozdział 5 : Hero medalis |                   /#
+#\                     -----------------------------                   /#
+#\                  | 13 Maja - Stolica Twojego kraju |                /#
+#\                  -----------------------------------                /#
+#\                      Udało się! Boss pokonany!                      /#
+#\              Myślałeś że przygoda nigdy się nie skończy.            /#
+#\                       Ten przeklęty labirynt...                     /#
+#\                       Jesteś teraz bohaterem                        /#
+#\    Czopkopter z Tobą na pokładzie ląduje na wielkiej platformie.    /#
+#\                         Dookoła tłum ludzi                          /#
+#\                     Każdy skanduje Twoje imie                       /#
+#\              Masz ochotę pozbierać jeszcze trochę kup               /#
+#\                                                                     /#
+#\                                                                     /#
+#########################################################################
+
